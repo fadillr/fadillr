@@ -7,8 +7,9 @@ I am passionate about combining technical knowledge in web programming with a de
 ### Github Statistic
 <p align="center">
 <a href="https://github.com/fadillr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadillr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadillr&layout=compact&langs_count=8&theme=algolia"/>
+  ![Fadillr GitHub stats](https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=transparent)
+  [![Fadillr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Fadillr GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 </a>
 </p>
 
