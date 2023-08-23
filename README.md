@@ -5,7 +5,7 @@ I am a student currently studying in the Informatics department with special exp
 I am passionate about combining technical knowledge in web programming with a deep understanding of user needs to create effective and engaging digital solutions.
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/fadillr">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadillr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadillr&layout=compact&langs_count=8&theme=algolia"/>
