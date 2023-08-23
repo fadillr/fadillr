@@ -5,8 +5,12 @@ I am a student currently studying in the Informatics department with special exp
 I am passionate about combining technical knowledge in web programming with a deep understanding of user needs to create effective and engaging digital solutions.
 
 ### Github Statistic
-[![fadillr GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![fadillr GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p align="left">
+<a href="https://github.com/fadillr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadillr&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadillr&layout=compact&langs_count=8&theme=jolly"/>
+</a>
+</p>
 
 
 ### Reach me on
