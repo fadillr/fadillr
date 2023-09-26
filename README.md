@@ -1,8 +1,6 @@
 ### Hi 👋 I'm Fadillr
 
-I am a student currently studying in the Informatics department with special expertise in web development and interface design (UI/UX).I am a student currently studying in the Informatics department with special expertise in web development and interface design (UI/UX).
-
-I am passionate about combining technical knowledge in web programming with a deep understanding of user needs to create effective and engaging digital solutions.
+I'm a fresh graduate of Informatics major at Gunadarma University with high enthusiasm for the world of information technology. My main interests are in UI/UX Design, Web Development, and Mobile Development. With the knowledge I gained during my studies and the personal projects I have completed, I am ready to contribute and bring creative solutions in the digital world. In addition, I have strong analytical skills, good communication skills, and flexibility in adapting to changes.
 
 ### Github Statistic
 <p align="left">
